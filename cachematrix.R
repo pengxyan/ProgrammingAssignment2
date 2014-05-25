@@ -11,6 +11,7 @@
 ##2.  get the value of the matrix
 ##3.  set the value of the inverse
 ##4.  get the value of the inverse
+require("MASS")
 
 makeCacheMatrix <- function(x = matrix()) {
   
